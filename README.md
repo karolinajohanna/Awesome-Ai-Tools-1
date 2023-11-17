@@ -132,6 +132,7 @@ If you're interested in natural language processing, there are a number of AI to
 - [TextBlob](https://textblob.readthedocs.io/en/dev/) - TextBlob is an open-source library for processing textual data in Python. It can help you perform tasks like sentiment analysis, part-of-speech tagging, and text classification.
 - [NLTK](https://www.nltk.org/) - NLTK (Natural Language Toolkit) is another open-source library for natural language processing in Python. It can help you perform tasks like tokenization, stemming, and named entity recognition.
 - [Amazon Comprehend](https://aws.amazon.com/comprehend/) - Amazon Comprehend is a natural language processing service that uses machine learning to analyze text and provide insights into the content and sentiment of the text.
+- [soffos](https://www.soffos.ai) - The Soffos Generative AI platform is a revolutionary solution that empowers software developers as well as everyday users to effortlessly create AI solutions.
 
 ### Named Entity Recognition
 
